@@ -82,3 +82,8 @@ html {
     display:flex;
     justify-content: space-evenly;
   }
+
+  .comps {
+    display:flex;
+    justify-content: space-evenly;
+  }
