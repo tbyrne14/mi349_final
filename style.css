@@ -96,10 +96,6 @@ html {
     font-size: 1.25em;
   }
 
-  .link {
+.link-1 {
     color:rgb(255, 255, 255);
-  }
-
-  .link:hover {
-    color:rgb(12, 200, 247);
-  }
+}
