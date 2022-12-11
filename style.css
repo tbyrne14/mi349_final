@@ -81,6 +81,8 @@ html {
   .comps-2 {
     display:flex;
     justify-content: space-evenly;
+    padding: 20px;
+    margin: 10px;
     border-bottom: 4px solid #000000;
   }
 
