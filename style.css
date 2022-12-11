@@ -105,3 +105,8 @@ a:visited {
     color:rgb(255, 255, 255);
     text-decoration-style: dashed;
 }
+
+.resume-section {
+    text-align:center;
+    font-size: 1.25em;
+}
