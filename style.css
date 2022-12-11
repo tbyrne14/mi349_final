@@ -96,6 +96,10 @@ html {
     font-size: 1.25em;
   }
 
-.link-1 {
+a:link {
+    color: rgb(255, 255, 255);
+}
+
+a:visited {
     color:rgb(255, 255, 255);
 }
