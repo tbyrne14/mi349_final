@@ -94,5 +94,12 @@ html {
   .link-description {
     text-align:center;
     font-size: 1.25em;
-    border-bottom: 4px solid #000000;
+  }
+
+  .link {
+    color:rgb(255, 255, 255);
+  }
+
+  .link:hover {
+    color:rgb(12, 200, 247);
   }
