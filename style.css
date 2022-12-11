@@ -98,10 +98,10 @@ html {
 
 a:link {
     color: rgb(255, 255, 255);
-    text-decoration-style: wavy;
+    text-decoration-style: dashed;
 }
 
 a:visited {
     color:rgb(255, 255, 255);
-    text-decoration-style: wavy;
+    text-decoration-style: dashed;
 }
