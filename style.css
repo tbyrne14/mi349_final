@@ -52,3 +52,9 @@ html {
     padding:10px;
     margin:10px;
   }
+
+  .experience {
+    text-align: center;
+    font-size: 1.25em;
+    border-bottom: 4px solid #000000;
+  }
