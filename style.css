@@ -98,10 +98,10 @@ html {
 
 a:link {
     color: rgb(255, 255, 255);
-    text-decoration: wavy;
+    text-decoration-style: wavy;
 }
 
 a:visited {
     color:rgb(255, 255, 255);
-    text-decoration: wavy;
+    text-decoration-style: wavy;
 }
