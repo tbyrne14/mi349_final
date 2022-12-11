@@ -68,3 +68,8 @@ html {
     display: flex;
     justify-content: space-evenly;
   }
+
+  .persona-desc {
+    display:flex;
+    justify-content: space-evenly;
+  }
