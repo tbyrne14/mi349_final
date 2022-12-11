@@ -72,7 +72,8 @@ html {
   .persona-desc {
     display:flex;
     justify-content: space-between;
-    margin:10px;
+    margin:20px;
     padding:10px;
+    text-align:center;
     border-bottom: 4px solid #000000;
   }
