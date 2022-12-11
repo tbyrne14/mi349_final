@@ -19,3 +19,12 @@ html {
     text-align: center;
     border-bottom: 4px solid #242424;
   }
+
+  .first-para {
+    font-size:1.25em;
+    text-align:center;
+  }
+
+  .class-list {
+    font-size:1.15em;
+  }
