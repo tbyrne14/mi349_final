@@ -78,7 +78,7 @@ html {
     border-bottom: 4px solid #000000;
   }
 
-  .comps {
+  .comps-2 {
     display:flex;
     justify-content: space-evenly;
   }
