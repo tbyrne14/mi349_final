@@ -17,7 +17,7 @@ html {
   .intro {
     font-size: 1.5em;
     text-align: center;
-    border-bottom: 4px solid #242424;
+    border-bottom: 4px solid #000000;
   }
 
   .first-para {
@@ -27,6 +27,7 @@ html {
 
   .class-list {
     font-size:1.15em;
+    border-bottom: 4px solid #000000;
   }
 
   .project-intro {
