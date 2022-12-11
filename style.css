@@ -58,3 +58,8 @@ html {
     font-size: 1.25em;
     border-bottom: 4px solid #000000;
   }
+
+  .persona-pictures {
+    display:flex;
+    justify-content: space-evenly;
+  }
