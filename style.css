@@ -115,3 +115,8 @@ a:visited {
     text-align: center;
     border-bottom: 4px solid #000000;
 }
+
+.sources {
+    text-align:center;
+    font-size:1.25em;
+}
