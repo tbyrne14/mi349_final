@@ -1,0 +1,21 @@
+html {
+    background :rgb(255, 255, 255);
+  }
+  
+  body {
+    margin: 40px;
+    padding: 40px;
+    background: #18453B;
+    color: rgb(255, 255, 255)
+  }
+  
+  h1 {
+    font-size: 3em;
+    text-align: center;
+  }
+  
+  .intro {
+    font-size: 1.5em;
+    text-align: center;
+    border-bottom: 4px solid #242424;
+  }
