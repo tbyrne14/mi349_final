@@ -110,3 +110,7 @@ a:visited {
     text-align:center;
     font-size: 1.25em;
 }
+
+.pdf {
+    display:flex;
+}
