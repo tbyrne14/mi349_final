@@ -90,3 +90,9 @@ html {
     display:flex;
     justify-content: space-evenly;
   }
+
+  .link-description {
+    text-align:center;
+    font-size: 1.25em;
+    border-bottom: 4px solid #000000;
+  }
