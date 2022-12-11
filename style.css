@@ -63,3 +63,8 @@ html {
     display:flex;
     justify-content: space-evenly;
   }
+
+  .persona-pictures-2 {
+    display: flex;
+    justify-content: space-evenly;
+  }
