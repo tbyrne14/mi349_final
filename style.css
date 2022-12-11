@@ -81,6 +81,7 @@ html {
   .comps-2 {
     display:flex;
     justify-content: space-evenly;
+    border-bottom: 4px solid #000000;
   }
 
   .comps {
